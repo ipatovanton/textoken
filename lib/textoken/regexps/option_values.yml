@@ -5,7 +5,7 @@
 
 punctuations:
   # punctuations
-  - \W+
+  - \W/
 
 numerics:
   - (?:\d*\.)?\d+
